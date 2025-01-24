@@ -148,7 +148,7 @@ volumes:
    docker compose down
    ```
     
-🛡️ Accessing the Application
+### 🛡️ Accessing the Application
 
 - Access the Node.js application at: [http://localhost:8080](http://localhost:3000).
 - The application responds with:
@@ -156,7 +156,7 @@ volumes:
   { "message": "Docker is easy 🐳" }
   ```
     
-🚹 Cleaning Up Resources
+### 🚹 Cleaning Up Resources
 
 To clean up all resources:
 
