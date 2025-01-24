@@ -42,7 +42,7 @@ The application consists of two main components:
 - The application connects to a MySQL database running in another container.
 - Both containers are managed using Docker Compose.
     
-🛠️ Setup & Installation
+## 🛠️ Setup & Installation
 
 ### 1⃣ Setup Node Project
 
@@ -68,7 +68,7 @@ The application consists of two main components:
    app.listen(port, () => console.log(`app listening on http://localhost:${port}`));
    ```
     
-🐳 Docker Setup
+## 🐳 Docker Setup
 
 ### 2⃣ Create a Dockerfile
 
