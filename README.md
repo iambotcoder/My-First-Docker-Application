@@ -125,7 +125,7 @@ services:
   web:
     build: .
     ports:
-      - "8080:8080"
+      - "3000:5000"
   db:
     image: "mysql"
     environment:
@@ -150,7 +150,7 @@ volumes:
     
 🛡️ Accessing the Application
 
-- Access the Node.js application at: [http://localhost:8080](http://localhost:8080).
+- Access the Node.js application at: [http://localhost:8080](http://localhost:3000).
 - The application responds with:
   ```json
   { "message": "Docker is easy 🐳" }
