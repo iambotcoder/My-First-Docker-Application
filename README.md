@@ -113,7 +113,7 @@ CMD [ "npm", "start" ]
 
 The application will now be accessible at [http://localhost:5000](http://localhost:5000).
     
-🌐 Docker Compose Setup
+### 🌐 Docker Compose Setup
 
 ### 4⃣ Create a `docker-compose.yml`
 
