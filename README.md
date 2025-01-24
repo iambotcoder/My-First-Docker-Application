@@ -3,9 +3,10 @@
 
 ## 📖 Overview
 
+This project is a simple demonstration of creating and running a Dockerized Node.js application. The steps include creating a Dockerfile and docker-compose.yml, building a Docker image, and running the application using Docker Compose. This application responds with a JSON message "Docker is easy 🐳" when accessed via HTTP.
 
 ---
-This project is a simple demonstration of creating and running a Dockerized Node.js application. The steps include creating a Dockerfile and docker-compose.yml, building a Docker image, and running the application using Docker Compose. This application responds with a JSON message "Docker is easy 🐳" when accessed via HTTP.
+
 ## 📑 Table of Contents
 - [Prerequisites](#prerequisites) 🔑
 - [Architecture](#Architecture)
