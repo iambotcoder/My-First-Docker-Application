@@ -178,4 +178,4 @@ This project demonstrates how to containerize a simple Node.js application and m
 
 ## 👨‍🏫 Instructor
 
-This project was guided by *Navin reddy* and *Telusko*, who provided valuable mentorship throughout the process.
+This project was guided by ***Navin reddy*** and ***Telusko***, who provided valuable mentorship throughout the process.
