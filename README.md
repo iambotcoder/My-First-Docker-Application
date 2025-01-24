@@ -150,7 +150,7 @@ volumes:
     
 ### 🛡️ Accessing the Application
 
-- Access the Node.js application at: [http://localhost:8080](http://localhost:3000).
+- Access the Node.js application at: [http://localhost:3000](http://localhost:3000).
 - The application responds with:
   ```json
   { "message": "Docker is easy 🐳" }
