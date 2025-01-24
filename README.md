@@ -168,3 +168,14 @@ To clean up all resources:
    ```bash
    docker image prune
    ```
+---
+
+## ✅ Conclusion
+
+This project demonstrates how to containerize a simple Node.js application and manage it using Docker and Docker Compose. The setup ensures an isolated and portable development environment for your application.
+
+---
+
+## 👨‍🏫 Instructor
+
+This project was guided by *Navin reddy* and *Telusko*, who provided valuable mentorship throughout the process.
